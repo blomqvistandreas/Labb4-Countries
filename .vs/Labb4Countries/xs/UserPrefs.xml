@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{5D6990D7-9DBB-4C21-94B7-EBBFEA5AFBE4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Labb4Countries/MainPage.xaml">
+    <Files>
+      <File FileName="Labb4Countries/Model/ViewModels/MainViewModel.cs" Line="31" Column="57" />
+      <File FileName="Labb4Countries/Model/Country.cs" Line="1" Column="1" />
+      <File FileName="Labb4Countries/Model/ViewModels/SimpleViewModel.cs" Line="1" Column="1" />
+      <File FileName="Labb4Countries/MainPage.xaml" Line="42" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Labb4Countries" expanded="True">
+            <Node name="Labb4Countries" expanded="True">
+              <Node name="Model" expanded="True">
+                <Node name="ViewModels" expanded="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Labb4Countries.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CE205421-0C49-4091-B277-45E5F2B9864F" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Labb4Countries.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.Nexus_6_Edited_MIN_EGNA_API_27" />
+</Properties>

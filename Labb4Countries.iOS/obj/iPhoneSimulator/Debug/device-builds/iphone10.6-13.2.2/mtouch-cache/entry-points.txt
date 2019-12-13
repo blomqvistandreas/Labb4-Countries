@@ -1,0 +1,1137 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/System.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/System.dll
+Function=SystemNative_StrErrorR
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/System.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_OpenDir
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetReadDirRBufferSize
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadDirR
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CloseDir
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadLink
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_FStat2
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Symlink
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ChMod
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CopyFile
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEGid
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEUid
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Link
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_MkDir
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Rename
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_RmDir
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_UTime
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_UTimes
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Unlink
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_names
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_get_locale_country_code
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_start_wwan
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/System.dll
+Function=xamarin_get_block_descriptor
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NMatrix4
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NMatrix4
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix4
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix4
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSend
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSendSuper
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSend_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSendSuper_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_NVector3_int_CGSize
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_NVector3_int_CGSize
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_stret_NVector3_int_CGSize
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_stret_NVector3_int_CGSize
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_NVector3_Int64_CGSize
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_NVector3_Int64_CGSize
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_stret_NVector3_Int64_CGSize
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_stret_NVector3_Int64_CGSize
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_CGPoint_NMatrix4_int_CGSize
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_CGPoint_NMatrix4_int_CGSize
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_CGPoint_NMatrix4_int_CGSize
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_CGPoint_NMatrix4_int_CGSize
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_CGPoint_NMatrix4_Int64_CGSize
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_CGPoint_NMatrix4_Int64_CGSize
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_CGPoint_NMatrix4_Int64_CGSize
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_CGPoint_NMatrix4_Int64_CGSize
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_int_CGSize_nfloat_nfloat
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_int_CGSize_nfloat_nfloat
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_int_CGSize_nfloat_nfloat
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_int_CGSize_nfloat_nfloat
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_Int64_CGSize_nfloat_nfloat
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_Int64_CGSize_nfloat_nfloat
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_Int64_CGSize_nfloat_nfloat
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_Int64_CGSize_nfloat_nfloat
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_int
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_int
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_int
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_int
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_Int64
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_Int64
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_Int64
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_Int64
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NMatrix4_NVector3
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NMatrix4_NVector3
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix4_NVector3
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix4_NVector3
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NVector3_NVector3_int_int
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NVector3_NVector3_int_int
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NVector3_NVector3_Int64_Int64
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NVector3_NVector3_Int64_Int64
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_CGPoint_NMatrix4
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_CGPoint_NMatrix4
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_CGPoint_NMatrix4
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_CGPoint_NMatrix4
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4_NVector3_NVector3_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4_NVector3_NVector3_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSend
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSendSuper
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSend_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSendSuper_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_IntPtr_UInt32
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_IntPtr_UInt32
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_IntPtr_UInt64
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_IntPtr_UInt64
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_nint_nint_nint_UInt32
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_nint_nint_nint_UInt32
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_nint_nint_nint_UInt64
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_nint_nint_nint_UInt64
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_UInt32_nint_UInt32
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_UInt32_nint_UInt32
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_UInt64_nint_UInt64
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_UInt64_nint_UInt64
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSend
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSendSuper
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSend_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSendSuper_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix3
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix3
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix3
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix3
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSend
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSendSuper
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSend_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSendSuper_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2i_int_int_bool
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2i_int_int_bool
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2i_int_int_bool_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2i_int_int_bool_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2i
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2i
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_Vector2_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_Vector2_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_Vector2
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_Vector2
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSend_nuint
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSendSuper_nuint
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSend_stret_nuint
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSendSuper_stret_nuint
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSend_Vector2
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSendSuper_Vector2
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3d
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3d
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2d_Vector2d_Vector2i_bool
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2d_Vector2d_Vector2i_bool
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSend_Vector2i
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSendSuper_Vector2i
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_float_Vector2i
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_float_Vector2i
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSend
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSendSuper
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSend_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSendSuper_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKBox_float
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKBox_float
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector3
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector3
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_GKBox
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_GKBox
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKBox
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKBox
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_nuint
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_nuint
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_nuint
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_nuint
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_nuint
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_nuint
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_nuint
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_nuint
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKQuad_float
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKQuad_float
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_GKQuad
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_GKQuad
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKQuad
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKQuad
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2_float
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2_float
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2_Vector2
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2_Vector2
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSend
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSendSuper
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSend_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSendSuper_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_IntPtr_Vector2_Vector2_int
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_IntPtr_Vector2_Vector2_int
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_IntPtr_Vector2_Vector2_Int64
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_IntPtr_Vector2_Vector2_Int64
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_IntPtr_Vector2_Vector2
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_IntPtr_Vector2_Vector2
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSend
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSendSuper
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSend_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSendSuper_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSend
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSendSuper
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSend_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSendSuper_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_ref_MPSImageHistogramInfo
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_ref_MPSImageHistogramInfo
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4d_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4d_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend_stret_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper_stret_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Quaternion_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Quaternion_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Quaterniond_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Quaterniond_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend_stret_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper_stret_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaterniond_objc_msgSend_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaterniond_objc_msgSendSuper_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaterniond_objc_msgSend_stret_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaterniond_objc_msgSendSuper_stret_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2d_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2d_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend_stret_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper_stret_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3d_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3d_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSend_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSendSuper_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSend_stret_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSendSuper_stret_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4d_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4d_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend_stret_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper_stret_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSend_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSendSuper_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSend_stret_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSendSuper_stret_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4d
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4d
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_stret_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_stret_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_MDLAxisAlignedBoundingBox_bool
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_MDLAxisAlignedBoundingBox_bool
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3_Vector3
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3_Vector3
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Vector2i_Vector2i
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector2i_Vector2i
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector2i_Vector2i
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector2i_Vector2i
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_bool_IntPtr_Vector2i_nint_nuint_int_bool
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_bool_IntPtr_Vector2i_nint_nuint_int_bool
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_bool_IntPtr_Vector2i_nint_nuint_Int64_bool
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_bool_IntPtr_Vector2i_nint_nuint_Int64_bool
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_int_IntPtr_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_int_IntPtr_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_Int64_IntPtr_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_Int64_IntPtr_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_float_IntPtr_Vector2i
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_float_IntPtr_Vector2i
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_IntPtr_Vector2i
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_IntPtr_Vector2i
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix4
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix4
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Vector2
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Vector2
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Vector2
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Vector2
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Vector3
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Vector3
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Vector3
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Vector3
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Vector4
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Vector4
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Vector4
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Vector4
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Matrix4
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Matrix4
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Matrix4
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Matrix4
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_NMatrix4
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_NMatrix4
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_NMatrix4
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_NMatrix4
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_bool_int_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_bool_int_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_bool_Int64_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_bool_Int64_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_int_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_int_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_Int64_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_Int64_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_int_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_int_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_Int64_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_Int64_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_bool_int_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_bool_int_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_bool_Int64_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_bool_Int64_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_int_bool_int_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_int_bool_int_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_int_bool_Int64_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_int_bool_Int64_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_int_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_int_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_Int64_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_Int64_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_bool_int_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_bool_int_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_bool_Int64_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_bool_Int64_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_int_UInt32_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_int_UInt32_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_int_bool_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_int_bool_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_Int64_bool_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_Int64_bool_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2i_int_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2i_int_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2i_Int64_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2i_Int64_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_nuint_nuint_int_bool_bool_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_nuint_nuint_int_bool_bool_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_nuint_nuint_Int64_bool_bool_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_nuint_nuint_Int64_bool_bool_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_int_bool_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_int_bool_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_Int64_bool_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_Int64_bool_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_nuint_int_bool_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_nuint_int_bool_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_nuint_Int64_bool_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_nuint_Int64_bool_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSend_Vector2i_nint_float_IntPtr_IntPtr_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSendSuper_Vector2i_nint_float_IntPtr_IntPtr_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSend_Vector2i_IntPtr_IntPtr_IntPtr_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSendSuper_Vector2i_IntPtr_IntPtr_IntPtr_IntPtr
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_Int64
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_Int64
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_int_bool
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_int_bool
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_Int64_bool
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_Int64_bool
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_int_Vector2i_float_float_float_float
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_int_Vector2i_float_float_float_float
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Int64_Vector2i_float_float_float_float
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Int64_Vector2i_float_float_float_float
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_int_Vector2i_float_float_float_float_float
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_int_Vector2i_float_float_float_float_float
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Int64_Vector2i_float_float_float_float_float
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Int64_Vector2i_float_float_float_float_float
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_Vector2i
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_Vector2i
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_Vector2i_float
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_Vector2i_float
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Matrix4
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Matrix4
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Matrix4_bool
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Matrix4_bool
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NMatrix4_bool
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NMatrix4_bool
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_stret_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix4_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix4_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_IntPtr_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_IntPtr_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_stret_IntPtr_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret_IntPtr_Double
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSend
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSendSuper
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSend_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSendSuper_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_MDLAxisAlignedBoundingBox_float
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_MDLAxisAlignedBoundingBox_float
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSend_Vector4i_bool_bool_bool_bool
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSendSuper_Vector4i_bool_bool_bool_bool
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4i
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4i
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_MDLVoxelIndexExtent2
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_MDLVoxelIndexExtent2
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSend_Vector3
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSendSuper_Vector3
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSend_stret_Vector3
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSendSuper_stret_Vector3
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Vector4i
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector4i
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector4i
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector4i
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_Vector4i
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_Vector4i
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_stret_Vector4i
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_stret_Vector4i
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Vector3
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector3
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector3
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector3
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector4
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector4
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSend
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSendSuper
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSend_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSendSuper_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__void_objc_msgSend_Vector4
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__void_objc_msgSendSuper_Vector4
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Quaternion
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Quaternion
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSend
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSendSuper
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSend_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSendSuper_stret
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix2
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix2
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector4
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector4
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix2
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix2
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix2
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix2
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix3
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix3
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix3
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix3
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix4
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix4
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_nint
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_nint
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_nint
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_nint
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_CGPoint__VNNormalizedFaceBoundingBoxPointForLandmarkPoint_Vector2_CGRect_nuint_nuint_string
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_CGPoint__VNImagePointForFaceLandmarkPoint_Vector2_CGRect_nuint_nuint_string
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_1
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_2
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_3
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_4
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_5
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_6
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_7
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_8
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_9
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_init_nsthread
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=NetSecurityNative_ReleaseGssBuffer
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMinorStatus
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMajorStatus
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportUserName
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportPrincipalName
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseName
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredSpNego
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredWithPassword
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseCred
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitSecContext
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_AcceptSecContext
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DeleteSecContext
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_Wrap
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_Unwrap
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/System.dll
+Function=SystemNative_GetDomainSocketSizes
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/System.Core.dll
+Function=BrotliDecoderCreateInstance
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliDecoderDecompressStream
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliDecoderDecompress
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliDecoderDestroyInstance
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliDecoderIsFinished
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderCreateInstance
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderSetParameter
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderCompressStream
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderHasMoreOutput
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderDestroyInstance
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderCompress
+	/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.6-13.2.2/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=mono_pmip
+Function=xamarin_dyn_objc_msgSend
+Function=xamarin_dyn_objc_msgSendSuper
+Function=xamarin_dyn_objc_msgSend_stret
+Function=xamarin_dyn_objc_msgSendSuper_stret

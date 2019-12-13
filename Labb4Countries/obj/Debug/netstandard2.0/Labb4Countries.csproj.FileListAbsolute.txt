@@ -1,0 +1,25 @@
+/Users/andreasblomqvist/Desktop/Labb4Countries/Labb4Countries/bin/Debug/netstandard2.0/Labb4Countries.deps.json
+/Users/andreasblomqvist/Desktop/Labb4Countries/Labb4Countries/bin/Debug/netstandard2.0/Labb4Countries.dll
+/Users/andreasblomqvist/Desktop/Labb4Countries/Labb4Countries/bin/Debug/netstandard2.0/ref/Labb4Countries.dll
+/Users/andreasblomqvist/Desktop/Labb4Countries/Labb4Countries/bin/Debug/netstandard2.0/Labb4Countries.pdb
+/Users/andreasblomqvist/Desktop/Labb4Countries/Labb4Countries/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/andreasblomqvist/Desktop/Labb4Countries/Labb4Countries/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/andreasblomqvist/Desktop/Labb4Countries/Labb4Countries/obj/Debug/netstandard2.0/Labb4Countries.AssemblyInfoInputs.cache
+/Users/andreasblomqvist/Desktop/Labb4Countries/Labb4Countries/obj/Debug/netstandard2.0/Labb4Countries.AssemblyInfo.cs
+/Users/andreasblomqvist/Desktop/Labb4Countries/Labb4Countries/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/andreasblomqvist/Desktop/Labb4Countries/Labb4Countries/obj/Debug/netstandard2.0/Labb4Countries.dll
+/Users/andreasblomqvist/Desktop/Labb4Countries/Labb4Countries/obj/Debug/netstandard2.0/ref/Labb4Countries.dll
+/Users/andreasblomqvist/Desktop/Labb4Countries/Labb4Countries/obj/Debug/netstandard2.0/Labb4Countries.pdb
+/Users/andreasblomqvist/Desktop/Labb4Countries/Labb4Countries/obj/Debug/netstandard2.0/Labb4Countries.csprojAssemblyReference.cache
+/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries/bin/Debug/netstandard2.0/Labb4Countries.deps.json
+/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries/bin/Debug/netstandard2.0/Labb4Countries.dll
+/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries/bin/Debug/netstandard2.0/ref/Labb4Countries.dll
+/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries/bin/Debug/netstandard2.0/Labb4Countries.pdb
+/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries/obj/Debug/netstandard2.0/Labb4Countries.AssemblyInfoInputs.cache
+/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries/obj/Debug/netstandard2.0/Labb4Countries.AssemblyInfo.cs
+/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries/obj/Debug/netstandard2.0/Labb4Countries.dll
+/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries/obj/Debug/netstandard2.0/ref/Labb4Countries.dll
+/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb4Countries/Labb4Countries/obj/Debug/netstandard2.0/Labb4Countries.pdb

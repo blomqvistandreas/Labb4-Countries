@@ -1,0 +1,12 @@
+/Users/andreasblomqvist/Desktop/Labb4Countries/Labb4Countries/bin/Release/netstandard2.0/Labb4Countries.deps.json
+/Users/andreasblomqvist/Desktop/Labb4Countries/Labb4Countries/bin/Release/netstandard2.0/Labb4Countries.dll
+/Users/andreasblomqvist/Desktop/Labb4Countries/Labb4Countries/bin/Release/netstandard2.0/ref/Labb4Countries.dll
+/Users/andreasblomqvist/Desktop/Labb4Countries/Labb4Countries/bin/Release/netstandard2.0/Labb4Countries.pdb
+/Users/andreasblomqvist/Desktop/Labb4Countries/Labb4Countries/obj/Release/netstandard2.0/App.xaml.g.cs
+/Users/andreasblomqvist/Desktop/Labb4Countries/Labb4Countries/obj/Release/netstandard2.0/MainPage.xaml.g.cs
+/Users/andreasblomqvist/Desktop/Labb4Countries/Labb4Countries/obj/Release/netstandard2.0/Labb4Countries.AssemblyInfoInputs.cache
+/Users/andreasblomqvist/Desktop/Labb4Countries/Labb4Countries/obj/Release/netstandard2.0/Labb4Countries.AssemblyInfo.cs
+/Users/andreasblomqvist/Desktop/Labb4Countries/Labb4Countries/obj/Release/netstandard2.0/XamlC.stamp
+/Users/andreasblomqvist/Desktop/Labb4Countries/Labb4Countries/obj/Release/netstandard2.0/Labb4Countries.dll
+/Users/andreasblomqvist/Desktop/Labb4Countries/Labb4Countries/obj/Release/netstandard2.0/ref/Labb4Countries.dll
+/Users/andreasblomqvist/Desktop/Labb4Countries/Labb4Countries/obj/Release/netstandard2.0/Labb4Countries.pdb

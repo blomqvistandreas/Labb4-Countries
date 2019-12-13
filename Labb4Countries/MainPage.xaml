@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Labb4Countries.MainPage"
+             xmlns:Viewmodel="clr-namespace:Labb4Countries.Model.ViewModels"
+             xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
+             ios:Page.UseSafeArea="true">
+    <ContentPage.BindingContext>
+        <Viewmodel:MainViewModel/>
+    </ContentPage.BindingContext>
+
+    <StackLayout BackgroundColor="LightBlue" Padding="0,40,0,0" >
+
+        <Image Source="{Binding CurrentCountry.PictureUrl}"
+               HeightRequest="100"/>
+
+        <StackLayout Padding="0,40,0,0"
+                     HorizontalOptions="Center"
+                     Orientation="Horizontal">
+            <Label Text="Country: "></Label>
+            <Label Text="{Binding CurrentCountry.Name}"></Label>
+        </StackLayout>
+
+        <StackLayout HorizontalOptions="Center"
+                     Orientation="Horizontal">
+            <Label Text="Currency: "></Label>
+        <Label Text="{Binding CurrentCountry.Currency}"></Label>
+        </StackLayout>
+
+        <StackLayout HorizontalOptions="Center"
+                     Orientation="Horizontal">
+            <Label Text="Population: "></Label>
+        <Label Text="{Binding CurrentCountry.Population}"></Label>
+        </StackLayout>
+
+       <StackLayout HorizontalOptions="Center"
+                     Orientation="Horizontal">
+            <Button BackgroundColor="AliceBlue"
+                    WidthRequest="80"
+                    Command="{Binding previousCommand}"
+                    Text="Previous">
+            </Button>
+            <BoxView WidthRequest="20"></BoxView>
+            <Button BackgroundColor="AliceBlue"
+                    WidthRequest="80"
+                    Command="{Binding nextCommand}"
+                    Text="Next">
+            </Button>
+           </StackLayout>
+
+        <StackLayout
+            Padding="0,20,0,0"
+            HorizontalOptions="Center"
+            Orientation="Horizontal">
+            <Label WidthRequest="300"
+                   Text="{Binding CurrentCountry.Description}">
+            </Label>
+        </StackLayout>
+
+    </StackLayout>
+</ContentPage>
